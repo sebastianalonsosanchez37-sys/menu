@@ -1,0 +1,11 @@
+<html>
+	<head><title>Opinion</title></head>
+	
+	<body bgcolor=#3d3737 link=#8b2363 vlink=#222020 alink=#972d2d>
+	
+	<font color=#bd1939 face="Stencil"><h1 align="center">Mi opinion del semestre</h1></font>
+
+	
+	</body>
+
+</html>
